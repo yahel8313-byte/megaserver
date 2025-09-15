@@ -2599,3 +2599,20 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [07:04:06] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:33, y:72, z:25] in the dimension 0
 [07:04:06] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
 [07:04:07] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[07:05:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:05:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:05:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:06:33] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:0
+[07:06:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Army Soldier
+[07:06:39] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:33, y:76, z:21] in the dimension 0
+[07:06:39] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[07:06:41] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[07:07:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was blown up by Attack Helicopter
+[07:07:12] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:33, y:79, z:18] in the dimension 0
+[07:07:12] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[07:07:14] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[07:12:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Army Soldier
+[07:12:39] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:21, y:68, z:22] in the dimension 0
+[07:12:39] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[07:12:41] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[07:13:26] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:0

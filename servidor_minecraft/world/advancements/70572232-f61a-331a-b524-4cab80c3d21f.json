@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2025-09-15 07:05:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-09-15 06:37:14 +0000"
@@ -557,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-09-15 07:05:00 +0000"
+    },
+    "done": true
+  },
   "buildcraftfactory:recipes/water_gel_spawn": {
     "criteria": {
       "has_sand": "2025-09-15 06:42:58 +0000"
@@ -667,6 +679,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-15 06:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2025-09-15 07:05:00 +0000"
     },
     "done": true
   },

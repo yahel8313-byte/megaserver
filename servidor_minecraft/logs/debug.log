@@ -25242,3 +25242,114 @@ java.lang.NoSuchMethodError: net.minecraft.tileentity.MobSpawnerBaseLogic.func_1
 [07:04:14] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 290 times.
 
 [07:04:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:05:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:05:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:05:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:05:04] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 295 times.
+
+[07:05:04] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 295 times.
+
+[07:05:04] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 295 times.
+
+[07:05:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:05:54] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 300 times.
+
+[07:05:54] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 300 times.
+
+[07:05:54] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 300 times.
+
+[07:06:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:06:33] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:0
+[07:06:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Army Soldier
+[07:06:39] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:33, y:76, z:21] in the dimension 0
+[07:06:39] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[07:06:41] [Server thread/DEBUG] [projecte]: Clearing offline data cache in preparation to load online data
+[07:06:41] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[07:06:41] [Server thread/DEBUG] [twilightforest]: Player TenMouse respawned and received items held in storage
+[07:06:44] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 305 times.
+
+[07:06:44] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 305 times.
+
+[07:06:44] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 305 times.
+
+[07:06:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:07:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was blown up by Attack Helicopter
+[07:07:12] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:33, y:79, z:18] in the dimension 0
+[07:07:12] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[07:07:14] [Server thread/DEBUG] [projecte]: Clearing offline data cache in preparation to load online data
+[07:07:14] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[07:07:14] [Server thread/DEBUG] [twilightforest]: Player Rapariga respawned and received items held in storage
+[07:07:34] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 310 times.
+
+[07:07:34] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 310 times.
+
+[07:07:34] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 310 times.
+
+[07:07:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:08:24] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 315 times.
+
+[07:08:24] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 315 times.
+
+[07:08:24] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 315 times.
+
+[07:08:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:09:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:09:14] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 320 times.
+
+[07:09:14] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 320 times.
+
+[07:09:14] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 320 times.
+
+[07:09:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:10:04] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 325 times.
+
+[07:10:04] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 325 times.
+
+[07:10:04] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 325 times.
+
+[07:10:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:10:54] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 330 times.
+
+[07:10:54] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 330 times.
+
+[07:10:54] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 330 times.
+
+[07:11:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:11:44] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 335 times.
+
+[07:11:44] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 335 times.
+
+[07:11:44] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 335 times.
+
+[07:12:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:12:34] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 340 times.
+
+[07:12:34] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 340 times.
+
+[07:12:34] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 340 times.
+
+[07:12:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Army Soldier
+[07:12:39] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:21, y:68, z:22] in the dimension 0
+[07:12:39] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[07:12:41] [Server thread/DEBUG] [projecte]: Clearing offline data cache in preparation to load online data
+[07:12:41] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[07:12:41] [Server thread/DEBUG] [twilightforest]: Player TenMouse respawned and received items held in storage
+[07:12:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:13:24] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 345 times.
+
+[07:13:24] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 345 times.
+
+[07:13:24] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 345 times.
+
+[07:13:26] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:0
+[07:13:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:14:14] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 350 times.
+
+[07:14:14] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 350 times.
+
+[07:14:14] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 350 times.
+
+[07:14:23] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.crafting.Radar$PacketPing
+[07:14:23] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.crafting.Radar$PacketPing : SERVER
+[07:14:23] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.crafting.Radar$PacketPing : SERVER
+[07:14:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
