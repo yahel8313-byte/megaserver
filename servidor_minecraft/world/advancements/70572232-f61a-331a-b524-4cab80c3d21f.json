@@ -514,6 +514,18 @@
     },
     "done": true
   },
+  "tombstone:tutorial/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-09-15 06:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-09-15 06:48:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-09-15 06:37:31 +0000"
