@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "ebwizardry:all_spells": {
+    "criteria": {
+      "ward": "2025-09-15 08:12:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 06:46:20 +0000"
@@ -215,15 +221,15 @@
     },
     "done": true
   },
-  "mcwlights:recipes/tiki_torches": {
-    "criteria": {
-      "torch": "2025-09-15 07:37:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-09-15 06:49:14 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "torch": "2025-09-15 07:37:05 +0000"
     },
     "done": true
   },
@@ -302,6 +308,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "potato": "2025-09-15 07:34:33 +0000",
+      "bread": "2025-09-15 08:11:02 +0000",
       "carrot": "2025-09-15 07:37:26 +0000"
     },
     "done": false
@@ -330,6 +337,12 @@
     },
     "done": true
   },
+  "bewitchment:mined_amethyst": {
+    "criteria": {
+      "hat": "2025-09-15 08:12:04 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/sea_lantern_slab": {
     "criteria": {
       "has_wood": "2025-09-15 06:18:16 +0000"
@@ -342,15 +355,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_block": {
-    "criteria": {
-      "has_the_recipe": "2025-09-15 07:28:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 06:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-09-15 07:28:30 +0000"
     },
     "done": true
   },
@@ -372,17 +385,17 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-09-15 07:44:35 +0000"
-    },
-    "done": true
-  },
   "vampirism:hunter/betrayal": {
     "criteria": {
       "kill": "2025-09-15 06:38:07 +0000"
     },
     "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-15 07:44:35 +0000"
+    },
+    "done": true
   },
   "mutantbeasts:root": {
     "criteria": {
@@ -432,6 +445,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-09-15 08:12:04 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/redstone_slab": {
     "criteria": {
       "has_wood": "2025-09-15 06:18:16 +0000"
@@ -450,21 +469,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_at_least_9_wheat": "2025-09-15 07:40:31 +0000"
-    },
-    "done": true
-  },
   "twilightforest:alt/compat/tconstruct": {
     "criteria": {
       "book": "2025-09-15 06:18:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_shovel": {
+  "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
-      "has_gold_ingot": "2025-09-15 06:49:14 +0000"
+      "has_at_least_9_wheat": "2025-09-15 07:40:31 +0000"
     },
     "done": true
   },
@@ -474,15 +487,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+  "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
-      "has_sand": "2025-09-15 07:31:21 +0000"
+      "has_gold_ingot": "2025-09-15 06:49:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2025-09-15 06:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-15 07:31:21 +0000"
     },
     "done": true
   },
@@ -495,6 +514,12 @@
   "inventorypets:inventorypets/root": {
     "criteria": {
       "auto": "2025-09-15 06:18:16 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/scrolls": {
+    "criteria": {
+      "criteria_0": "2025-09-15 08:12:04 +0000"
     },
     "done": true
   },
@@ -516,15 +541,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-09-15 07:31:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-09-15 06:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-15 07:31:21 +0000"
     },
     "done": true
   },
@@ -582,9 +607,21 @@
     },
     "done": true
   },
+  "ebwizardry:discover_spell": {
+    "criteria": {
+      "criteria_0": "2025-09-15 08:12:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 06:46:20 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/torches": {
+    "criteria": {
+      "has_wood": "2025-09-15 06:18:16 +0000"
     },
     "done": true
   },
@@ -597,12 +634,6 @@
   "buildcraftfactory:recipes/water_gel_spawn": {
     "criteria": {
       "has_sand": "2025-09-15 07:31:21 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/torches": {
-    "criteria": {
-      "has_wood": "2025-09-15 06:18:16 +0000"
     },
     "done": true
   },
@@ -642,9 +673,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_pickaxe": {
+  "tombstone:tutorial/choose_knowledge": {
     "criteria": {
-      "has_stick": "2025-09-15 06:59:38 +0000"
+      "coded_trigger": "2025-09-15 06:45:56 +0000"
     },
     "done": true
   },
@@ -654,9 +685,9 @@
     },
     "done": true
   },
-  "tombstone:tutorial/choose_knowledge": {
+  "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
-      "coded_trigger": "2025-09-15 06:45:56 +0000"
+      "has_stick": "2025-09-15 06:59:38 +0000"
     },
     "done": true
   },
@@ -714,9 +745,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
+  "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "has_spider_eye": "2025-09-15 07:36:08 +0000"
+      "entered_water": "2025-09-15 06:19:26 +0000"
     },
     "done": true
   },
@@ -726,9 +757,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "entered_water": "2025-09-15 06:19:26 +0000"
+      "has_spider_eye": "2025-09-15 07:36:08 +0000"
     },
     "done": true
   },
@@ -762,15 +793,15 @@
     },
     "done": true
   },
-  "mcwlights:recipes/paper_lamp": {
-    "criteria": {
-      "paper": "2025-09-15 07:37:05 +0000"
-    },
-    "done": true
-  },
   "mcwpaths:recipes/oak_planks_path": {
     "criteria": {
       "has_planks": "2025-09-15 06:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "paper": "2025-09-15 07:37:05 +0000"
     },
     "done": true
   },
@@ -792,21 +823,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-09-15 07:37:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-09-15 06:19:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-09-15 07:37:23 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-09-15 06:45:37 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/tools/iron_pendant": {
+    "criteria": {
+      "has_iron": "2025-09-15 06:46:20 +0000"
     },
     "done": true
   },
@@ -823,12 +860,6 @@
       "enderman": "2025-09-15 07:03:20 +0000"
     },
     "done": false
-  },
-  "aether_legacy:recipes/tools/iron_pendant": {
-    "criteria": {
-      "has_iron": "2025-09-15 06:46:20 +0000"
-    },
-    "done": true
   },
   "tombstone:tutorial/teleport_to_grave": {
     "criteria": {
@@ -866,15 +897,15 @@
     },
     "done": true
   },
-  "tombstone:tutorial/ashes_and_bones": {
-    "criteria": {
-      "coded_trigger": "2025-09-15 07:28:46 +0000"
-    },
-    "done": true
-  },
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_planks": "2025-09-15 06:18:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-09-15 07:28:46 +0000"
     },
     "done": true
   },
@@ -926,15 +957,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-09-15 07:31:21 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-15 06:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-15 07:31:21 +0000"
     },
     "done": true
   },
