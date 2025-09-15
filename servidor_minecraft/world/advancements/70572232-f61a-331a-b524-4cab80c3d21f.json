@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "fossil:fossil/analyzer": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-15 07:41:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-09-15 06:37:18 +0000"
@@ -329,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2025-09-15 07:37:36 +0000"
+    },
+    "done": false
+  },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-09-15 06:40:02 +0000"
@@ -512,6 +524,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-09-15 07:30:03 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/failuresaurus": {
+    "criteria": {
+      "flesh": "2025-09-15 07:41:52 +0000"
     },
     "done": true
   },
@@ -917,6 +935,12 @@
   "aether_legacy:recipes/tools/iron_pendant": {
     "criteria": {
       "has_iron": "2025-09-15 06:42:16 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/break_fossil": {
+    "criteria": {
+      "relic_scrap": "2025-09-15 07:40:50 +0000"
     },
     "done": true
   },

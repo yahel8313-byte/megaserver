@@ -25664,3 +25664,153 @@ java.lang.NoSuchMethodError: net.minecraft.tileentity.MobSpawnerBaseLogic.func_1
 
 [07:35:04] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 475 times.
 
+[07:35:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:35:54] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 480 times.
+
+[07:35:54] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 480 times.
+
+[07:35:54] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 480 times.
+
+[07:36:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:36:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:36:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:36:35] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@951
+[07:36:41] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@955
+[07:36:43] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@962
+[07:36:44] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 485 times.
+
+[07:36:44] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 485 times.
+
+[07:36:44] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 485 times.
+
+[07:36:44] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@963
+[07:36:46] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@963
+[07:36:49] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@964
+[07:36:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:36:54] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@976
+[07:36:55] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@977
+[07:36:55] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@977
+[07:36:58] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@978
+[07:37:01] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@979
+[07:37:02] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@979
+[07:37:02] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@979
+[07:37:03] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@980
+[07:37:04] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@981
+[07:37:05] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:37:05] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:37:05] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:37:06] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@981
+[07:37:07] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@982
+[07:37:07] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@982
+[07:37:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:37:08] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@983
+[07:37:09] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@984
+[07:37:09] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@984
+[07:37:09] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@985
+[07:37:11] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@986
+[07:37:13] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@987
+[07:37:17] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@988
+[07:37:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:37:23] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@988
+[07:37:24] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@988
+[07:37:26] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@988
+[07:37:34] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 490 times.
+
+[07:37:34] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 490 times.
+
+[07:37:34] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 490 times.
+
+[07:37:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:38:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Suit Up]
+[07:38:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:38:15] [Server thread/INFO] [Morph]: 1xitem.t2_commando_helmet@990
+[07:38:16] [Server thread/INFO] [Morph]: 1xtile.air@0
+[07:38:20] [Server thread/INFO] [Morph]: 1xtile.air@0
+[07:38:21] [Server thread/INFO] [Morph]: 1xtile.air@0
+[07:38:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was shot by Zombie Soldier
+[07:38:22] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:-115, y:63, z:579] in the dimension 0
+[07:38:22] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[07:38:24] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 495 times.
+
+[07:38:24] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 495 times.
+
+[07:38:24] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 495 times.
+
+[07:38:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:38:24] [Server thread/DEBUG] [projecte]: Clearing offline data cache in preparation to load online data
+[07:38:24] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[07:38:24] [Server thread/DEBUG] [twilightforest]: Player Rapariga respawned and received items held in storage
+[07:38:25] [Server thread/INFO] [Morph]: 1xtile.air@0
+[07:38:28] [Server thread/INFO] [Morph]: 1xtile.air@0
+[07:38:29] [Server thread/INFO] [Morph]: 1xtile.air@0
+[07:38:30] [Server thread/INFO] [Morph]: 1xtile.air@0
+[07:38:32] [Server thread/INFO] [Morph]: 1xtile.air@0
+[07:39:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:39:14] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 500 times.
+
+[07:39:14] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 500 times.
+
+[07:39:14] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 500 times.
+
+[07:39:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:40:04] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 505 times.
+
+[07:40:04] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 505 times.
+
+[07:40:04] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 505 times.
+
+[07:40:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [A Seedy Place]
+[07:40:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:40:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:40:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:40:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:40:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Digging Deep]
+[07:40:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:40:54] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 510 times.
+
+[07:40:54] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 510 times.
+
+[07:40:54] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 510 times.
+
+[07:41:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:41:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Research Time]
+[07:41:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:41:44] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 515 times.
+
+[07:41:44] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 515 times.
+
+[07:41:44] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 515 times.
+
+[07:41:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Back to the Drawing Boards]
+[07:41:52] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:42:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:42:34] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 520 times.
+
+[07:42:34] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 520 times.
+
+[07:42:34] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 520 times.
+
+[07:42:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:43:24] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 525 times.
+
+[07:43:24] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 525 times.
+
+[07:43:24] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 525 times.
+
+[07:43:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:44:14] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 530 times.
+
+[07:44:14] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 530 times.
+
+[07:44:14] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 530 times.
+
+[07:44:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:44:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Isn't It Iron Pick]
+[07:44:35] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:45:04] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 535 times.
+
+[07:45:04] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 535 times.
+
+[07:45:04] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 535 times.
+
+[07:45:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
