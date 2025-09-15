@@ -2616,3 +2616,33 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [07:12:39] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
 [07:12:41] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
 [07:13:26] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:0
+[07:21:01] [Server thread/WARN] [FML]: AbyssalCraft loaded a new chunk [16, 28] in dimension 0 (overworld) while populating chunk [16, 26], causing cascading worldgen lag.
+[07:21:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:01] [Server thread/WARN] [FML]: AbyssalCraft loaded a new chunk [16, 27] in dimension 0 (overworld) while populating chunk [16, 26], causing cascading worldgen lag.
+[07:21:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:22:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was slain by Zombie Soldier
+[07:22:52] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:256, y:64, z:265] in the dimension 0
+[07:22:52] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[07:22:55] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [A Strange Grave's Dust]
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Stone Age]
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Getting an Upgrade]
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:46] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:0
+[07:24:56] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:1

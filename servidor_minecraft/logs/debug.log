@@ -25353,3 +25353,121 @@ java.lang.NoSuchMethodError: net.minecraft.tileentity.MobSpawnerBaseLogic.func_1
 [07:14:23] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.crafting.Radar$PacketPing : SERVER
 [07:14:23] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.crafting.Radar$PacketPing : SERVER
 [07:14:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:15:04] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 355 times.
+
+[07:15:04] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 355 times.
+
+[07:15:04] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 355 times.
+
+[07:15:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:15:54] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 360 times.
+
+[07:15:54] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 360 times.
+
+[07:15:54] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 360 times.
+
+[07:15:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:16:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:16:44] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 365 times.
+
+[07:16:44] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 365 times.
+
+[07:16:44] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 365 times.
+
+[07:17:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:17:34] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 370 times.
+
+[07:17:34] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 370 times.
+
+[07:17:34] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 370 times.
+
+[07:18:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:18:24] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 375 times.
+
+[07:18:24] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 375 times.
+
+[07:18:24] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 375 times.
+
+[07:18:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:19:14] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 380 times.
+
+[07:19:14] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 380 times.
+
+[07:19:14] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 380 times.
+
+[07:19:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:20:04] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 385 times.
+
+[07:20:04] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 385 times.
+
+[07:20:04] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 385 times.
+
+[07:20:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:20:54] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 390 times.
+
+[07:20:54] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 390 times.
+
+[07:20:54] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 390 times.
+
+[07:21:01] [Server thread/WARN] [FML]: AbyssalCraft loaded a new chunk [16, 28] in dimension 0 (overworld) while populating chunk [16, 26], causing cascading worldgen lag.
+[07:21:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:01] [Server thread/WARN] [FML]: AbyssalCraft loaded a new chunk [16, 27] in dimension 0 (overworld) while populating chunk [16, 26], causing cascading worldgen lag.
+[07:21:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:21:44] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 395 times.
+
+[07:21:44] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 395 times.
+
+[07:21:44] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 395 times.
+
+[07:21:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:22:34] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 400 times.
+
+[07:22:34] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 400 times.
+
+[07:22:34] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 400 times.
+
+[07:22:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:22:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was slain by Zombie Soldier
+[07:22:52] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:256, y:64, z:265] in the dimension 0
+[07:22:52] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[07:22:55] [Server thread/DEBUG] [projecte]: Clearing offline data cache in preparation to load online data
+[07:22:55] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[07:22:55] [Server thread/DEBUG] [twilightforest]: Player Rapariga respawned and received items held in storage
+[07:23:24] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 405 times.
+
+[07:23:24] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 405 times.
+
+[07:23:24] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 405 times.
+
+[07:23:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [A Strange Grave's Dust]
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Stone Age]
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Getting an Upgrade]
+[07:24:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:24:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:24:14] [Server thread/DEBUG] [FML]: The world 47a8f10f (world) may have leaked: seen 410 times.
+
+[07:24:14] [Server thread/DEBUG] [FML]: The world 336e1572 (world) may have leaked: seen 410 times.
+
+[07:24:14] [Server thread/DEBUG] [FML]: The world 6933eeef (world) may have leaked: seen 410 times.
+
+[07:24:46] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:0
+[07:24:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:24:56] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:1
