@@ -1,13 +1,13 @@
 {
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-09-15 09:13:29 +0000"
-    },
-    "done": true
-  },
   "aether_legacy:recipes/misc/saddle": {
     "criteria": {
       "has_leather": "2025-09-15 08:15:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-09-15 09:13:29 +0000"
     },
     "done": true
   },
@@ -350,15 +350,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2025-09-15 09:35:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-09-15 09:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-09-15 09:35:07 +0000"
     },
     "done": true
   },
