@@ -2357,3 +2357,60 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [08:27:26] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
 [08:27:59] [Netty Epoll Server IO #4/ERROR] [mca]: Career ID wasn't assigned for UUID: 2ca06ef7-0d3c-4f06-948a-48190078cdfb
 [08:30:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[08:33:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Ancient knowledge]
+[08:33:14] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[08:33:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was slain by Vampire
+[08:33:26] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:71, y:69, z:1034] in the dimension 0
+[08:33:26] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[08:33:26] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[08:33:28] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[08:33:35] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[08:33:35] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[08:33:35] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[08:33:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga got revenge on Vampire
+[08:33:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [A Seedy Place]
+[08:33:51] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[08:34:25] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [20, 89] in dimension 0 (overworld) while populating chunk [19, 88], causing cascading worldgen lag.
+[08:34:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:34:25] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[08:34:30] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[08:34:33] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:shady_merchant`. A random skin will be generated.
+[08:34:33] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[08:34:33] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:shady_merchant`. A random skin will be generated.
+[08:34:33] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[08:34:33] [Server thread/WARN] [mca]: No skin found for profession: `vampirism:vampire_expert`. A random skin will be generated.
+[08:36:19] [Server thread/INFO] [Morph]: 1xitem.helmetIron@20
+[08:36:23] [Server thread/INFO] [Morph]: 1xitem.helmetIron@21
+[08:36:24] [Server thread/INFO] [Morph]: 1xitem.helmetIron@22
+[08:36:26] [Server thread/INFO] [Morph]: 1xitem.helmetIron@23
+[08:36:26] [Server thread/INFO] [Morph]: 1xitem.helmetIron@23
+[08:36:27] [Server thread/INFO] [Morph]: 1xitem.helmetIron@23
+[08:36:30] [Server thread/INFO] [Morph]: 1xitem.helmetIron@24
+[08:36:35] [Server thread/INFO] [Morph]: 1xitem.helmetIron@25
+[08:36:40] [Server thread/INFO] [Morph]: 1xitem.helmetIron@25
+[08:36:40] [Server thread/INFO] [Morph]: 1xitem.helmetIron@25
+[08:36:41] [Server thread/INFO] [Morph]: 1xitem.helmetIron@25
+[08:36:42] [Server thread/INFO] [Morph]: 1xitem.helmetIron@25
+[08:36:42] [Server thread/INFO] [Morph]: 1xitem.helmetIron@26
+[08:36:43] [Server thread/INFO] [Morph]: 1xitem.helmetIron@27
+[08:36:43] [Server thread/INFO] [Morph]: 1xitem.helmetIron@27
+[08:36:43] [Server thread/INFO] [Morph]: 1xitem.helmetIron@27
+[08:36:44] [Server thread/INFO] [Morph]: 1xitem.helmetIron@27
+[08:36:46] [Server thread/INFO] [Morph]: 1xitem.helmetIron@28
+[08:36:48] [Server thread/INFO] [Morph]: 1xitem.helmetIron@29
+[08:36:49] [Server thread/INFO] [Morph]: 1xitem.helmetIron@30
+[08:36:51] [Server thread/INFO] [Morph]: 1xitem.helmetIron@30
+[08:36:53] [Server thread/INFO] [Morph]: 1xitem.helmetIron@30
+[08:36:54] [Server thread/INFO] [Morph]: 1xitem.helmetIron@30
+[08:36:55] [Server thread/INFO] [Morph]: 1xitem.helmetIron@30
+[08:36:58] [Server thread/INFO] [Morph]: 1xitem.helmetIron@31
+[08:36:58] [Server thread/INFO] [Morph]: 1xitem.helmetIron@31
+[08:36:59] [Server thread/INFO] [Morph]: 1xitem.helmetIron@32
+[08:36:59] [Server thread/INFO] [Morph]: 1xitem.helmetIron@33
+[08:37:01] [Server thread/INFO] [Morph]: 1xitem.helmetIron@34
+[08:37:01] [Server thread/INFO] [Morph]: 1xitem.helmetIron@34
+[08:38:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TenMouse: Set own game mode to Creative Mode]
+[08:38:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TenMouse: Set own game mode to Survival Mode]
+[08:39:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[08:42:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [First Blood]
+[08:42:42] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse

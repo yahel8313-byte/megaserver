@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-09-15 08:33:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-15 07:31:21 +0000"
@@ -299,6 +305,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "flower": "2025-09-15 08:42:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-09-15 06:49:14 +0000"
@@ -425,6 +437,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-09-15 07:44:35 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-09-15 08:33:26 +0000"
     },
     "done": true
   },
@@ -930,6 +948,12 @@
       "enderman": "2025-09-15 07:03:20 +0000"
     },
     "done": false
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-09-15 08:39:07 +0000"
+    },
+    "done": true
   },
   "tombstone:tutorial/teleport_to_grave": {
     "criteria": {

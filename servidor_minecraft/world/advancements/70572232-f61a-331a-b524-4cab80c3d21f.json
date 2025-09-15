@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2025-09-15 08:33:35 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2025-09-15 06:35:48 +0000"
@@ -80,6 +86,12 @@
   "mcwpaths:recipes/cobblestone": {
     "criteria": {
       "has_planks": "2025-09-15 07:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-09-15 08:33:35 +0000"
     },
     "done": true
   },
@@ -321,6 +333,12 @@
   "twilightforest:alt/compat/tconstruct": {
     "criteria": {
       "book": "2025-09-15 06:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2025-09-15 08:33:35 +0000"
     },
     "done": true
   },
@@ -1036,6 +1054,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-09-15 07:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-09-15 08:33:51 +0000"
     },
     "done": true
   },
