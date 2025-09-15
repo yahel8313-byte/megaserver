@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "f5c4f1b1-22db-3580-add9-49b20a19181a",
+    "name": "TenMouse",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

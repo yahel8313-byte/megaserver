@@ -1,4 +1,10 @@
 {
+  "aether_legacy:recipes/misc/saddle": {
+    "criteria": {
+      "has_leather": "2025-09-15 08:15:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_the_recipe": "2025-09-15 06:59:38 +0000"
@@ -77,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-09-15 08:15:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-09-15 06:59:24 +0000"
@@ -152,6 +164,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-09-15 06:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-09-15 08:12:53 +0000"
     },
     "done": true
   },
@@ -275,6 +293,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-09-15 08:15:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-09-15 06:49:14 +0000"
@@ -307,6 +331,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2025-09-15 08:21:27 +0000",
       "potato": "2025-09-15 07:34:33 +0000",
       "bread": "2025-09-15 08:11:02 +0000",
       "carrot": "2025-09-15 07:37:26 +0000"
@@ -322,6 +347,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-09-15 06:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-15 08:14:48 +0000"
     },
     "done": true
   },
@@ -481,6 +512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-09-15 08:15:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 06:46:20 +0000"
@@ -532,6 +569,12 @@
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2025-09-15 06:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-09-15 08:15:20 +0000"
     },
     "done": true
   },
@@ -643,6 +686,9 @@
       "deep_ocean": "2025-09-15 06:19:35 +0000",
       "beaches": "2025-09-15 06:18:27 +0000",
       "desert_hills": "2025-09-15 07:28:29 +0000",
+      "savanna": "2025-09-15 08:12:38 +0000",
+      "plains": "2025-09-15 08:17:00 +0000",
+      "savanna_rock": "2025-09-15 08:13:34 +0000",
       "ocean": "2025-09-15 07:04:56 +0000",
       "river": "2025-09-15 06:35:59 +0000",
       "desert": "2025-09-15 07:28:54 +0000"
@@ -787,9 +833,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-09-15 08:15:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-09-15 06:19:26 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/throwables": {
+    "criteria": {
+      "criteria_0": "2025-09-15 08:30:55 +0000"
     },
     "done": true
   },
@@ -808,6 +866,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-15 07:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-09-15 08:15:20 +0000"
     },
     "done": true
   },
@@ -838,6 +902,12 @@
   "tombstone:tutorial/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-09-15 06:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-15 08:14:48 +0000"
     },
     "done": true
   },

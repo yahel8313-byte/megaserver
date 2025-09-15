@@ -2195,3 +2195,165 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [08:12:53] [Server thread/INFO] [mca]: Villager death: Rozella. Caused by: inWall. UUID: b83d9365-9841-464a-a062-631436e52b72
 [08:12:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
 [08:12:55] [Server thread/WARN] [mca]: No skin found for profession: `bewitchment:hedge_witch`. A random skin will be generated.
+[08:12:59] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:druid`. A random skin will be generated.
+[08:12:59] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:druid`. A random skin will be generated.
+[08:12:59] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
+[08:12:59] [Server thread/WARN] [mca]: No skin found for profession: `bewitchment:alchemist`. A random skin will be generated.
+[08:12:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[08:13:08] [Server thread/WARN] [FML]: Techguns loaded a new chunk [0, 65] in dimension 0 (overworld) while populating chunk [0, 64], causing cascading worldgen lag.
+[08:13:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:13:08] [Server thread/WARN] [FML]: Techguns loaded a new chunk [1, 64] in dimension 0 (overworld) while populating chunk [0, 64], causing cascading worldgen lag.
+[08:13:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:13:08] [Server thread/WARN] [mca]: No skin found for profession: `bewitchment:alchemist`. A random skin will be generated.
+[08:13:08] [Server thread/WARN] [FML]: Techguns loaded a new chunk [1, 65] in dimension 0 (overworld) while populating chunk [0, 64], causing cascading worldgen lag.
+[08:13:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:13:08] [Server thread/WARN] [FML]: Techguns loaded a new chunk [2, 64] in dimension 0 (overworld) while populating chunk [0, 64], causing cascading worldgen lag.
+[08:13:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:13:08] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:sage`. A random skin will be generated.
+[08:13:08] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:sage`. A random skin will be generated.
+[08:13:08] [Server thread/WARN] [FML]: Techguns loaded a new chunk [2, 65] in dimension 0 (overworld) while populating chunk [0, 64], causing cascading worldgen lag.
+[08:13:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:13:08] [Server thread/WARN] [FML]: Techguns loaded a new chunk [3, 64] in dimension 0 (overworld) while populating chunk [0, 64], causing cascading worldgen lag.
+[08:13:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:13:08] [Server thread/WARN] [FML]: Techguns loaded a new chunk [3, 65] in dimension 0 (overworld) while populating chunk [0, 64], causing cascading worldgen lag.
+[08:13:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:13:12] [Server thread/WARN] [FML]: Mowzie's Mobs loaded a new chunk [-16, 65] in dimension 0 (overworld) while populating chunk [-15, 65], causing cascading worldgen lag.
+[08:13:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:13:18] [Server thread/INFO] [mca]: Villager death: Sylvia. Caused by: inWall. UUID: 07cb3105-0d8c-4a1e-8a3e-0f1ab9cecd1b
+[08:14:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[08:14:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[08:15:03] [Server thread/WARN] [FML]: Mowzie's Mobs loaded a new chunk [-31, 50] in dimension 0 (overworld) while populating chunk [-30, 50], causing cascading worldgen lag.
+[08:15:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:15:03] [Server thread/WARN] [FML]: Mowzie's Mobs loaded a new chunk [-31, 49] in dimension 0 (overworld) while populating chunk [-30, 50], causing cascading worldgen lag.
+[08:15:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:15:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[08:15:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[08:15:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[08:15:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[08:15:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[08:15:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[08:15:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[08:15:35] [Server thread/WARN] [mca]: No skin found for profession: `vampirism:hunter_expert`. A random skin will be generated.
+[08:15:58] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:sage`. A random skin will be generated.
+[08:15:58] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:sage`. A random skin will be generated.
+[08:16:04] [Server thread/WARN] [FML]: Techguns loaded a new chunk [-33, 64] in dimension 0 (overworld) while populating chunk [-32, 64], causing cascading worldgen lag.
+[08:16:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:16:05] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[08:16:05] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:druid`. A random skin will be generated.
+[08:16:05] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:druid`. A random skin will be generated.
+[08:16:05] [Server thread/WARN] [vampirism]: [TileTotem]Freshly generated totem cannot find village
+[08:16:06] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-10, 77] in dimension 0 (overworld) while populating chunk [-11, 77], causing cascading worldgen lag.
+[08:16:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:16:06] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[08:16:09] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:druid`. A random skin will be generated.
+[08:16:09] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:druid`. A random skin will be generated.
+[08:16:16] [Server thread/WARN] [mca]: No skin found for profession: `vampirism:hunter_expert`. A random skin will be generated.
+[08:16:16] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[08:16:16] [Server thread/WARN] [mca]: No skin found for profession: `vampirism:hunter_expert`. A random skin will be generated.
+[08:16:16] [Server thread/WARN] [mca]: No skin found for profession: `vampirism:hunter_expert`. A random skin will be generated.
+[08:16:18] [Server thread/WARN] [mca]: No skin found for profession: `vampirism:hunter_expert`. A random skin will be generated.
+[08:16:18] [Server thread/WARN] [mca]: No skin found for profession: `vampirism:hunter_expert`. A random skin will be generated.
+[08:16:18] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[08:16:20] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:sage`. A random skin will be generated.
+[08:16:20] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:sage`. A random skin will be generated.
+[08:16:20] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-35, 71] in dimension 0 (overworld) while populating chunk [-34, 71], causing cascading worldgen lag.
+[08:16:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:16:20] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[08:16:20] [Server thread/WARN] [mca]: No skin found for profession: `vampirism:hunter_expert`. A random skin will be generated.
+[08:16:22] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[08:16:28] [Server thread/INFO] [mca]: Villager death: Joshua. Caused by: Zombie Villager. UUID: 5155eb86-08cf-45e7-bfc0-00860ce09570
+[08:17:04] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [0, 79] in dimension 0 (overworld) while populating chunk [0, 78], causing cascading worldgen lag.
+[08:17:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:17:04] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[08:17:24] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[08:17:28] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[08:17:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[08:17:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[08:17:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[08:17:33] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[08:18:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[08:18:05] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[08:18:11] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
+[08:18:11] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
+[08:18:11] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[08:18:13] [Server thread/WARN] [FML]: Astral Sorcery loaded a new chunk [3, 73] in dimension 0 (overworld) while populating chunk [2, 73], causing cascading worldgen lag.
+[08:18:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:18:14] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:sage`. A random skin will be generated.
+[08:18:14] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:sage`. A random skin will be generated.
+[08:18:18] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[08:18:18] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[08:18:18] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:druid`. A random skin will be generated.
+[08:18:18] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:druid`. A random skin will be generated.
+[08:18:19] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[08:18:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[08:18:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [That Backfired]
+[08:18:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[08:18:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped TenMouse
+[08:19:12] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:werewolf
+[08:19:32] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[08:19:41] [Server thread/INFO] [mca]: Villager death: Denver. Caused by: inWall. UUID: 841e5966-5144-4c6a-b074-2834b4e1c115
+[08:19:41] [Server thread/INFO] [mca]: Villager death: Bernadine. Caused by: inWall. UUID: 5d60c516-4a36-4326-ab85-fc4f08bf25d2
+[08:19:51] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[08:20:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Trial And Error]
+[08:20:21] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[08:20:49] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[08:21:43] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[08:21:43] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:red_mechanic`. A random skin will be generated.
+[08:21:44] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:druid`. A random skin will be generated.
+[08:21:44] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:druid`. A random skin will be generated.
+[08:21:44] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[08:21:48] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[08:21:48] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:red_mechanic`. A random skin will be generated.
+[08:21:48] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[08:21:48] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[08:21:48] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:red_mechanic`. A random skin will be generated.
+[08:21:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was struck by lightning
+[08:21:59] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:-202, y:64, z:1388] in the dimension 0
+[08:22:00] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[08:22:01] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[08:22:02] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[08:22:02] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[08:22:02] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:red_mechanic`. A random skin will be generated.
+[08:22:02] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:red_mechanic`. A random skin will be generated.
+[08:22:02] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[08:22:03] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:sage`. A random skin will be generated.
+[08:22:03] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:sage`. A random skin will be generated.
+[08:22:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was shot by Skeleton Soldier
+[08:22:04] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:-212, y:63, z:1425] in the dimension 0
+[08:22:04] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[08:22:06] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[08:24:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Zombie Soldier
+[08:24:25] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:-141, y:63, z:597] in the dimension 0
+[08:24:25] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: java.util.ConcurrentModificationException
+[08:24:25] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469)
+[08:24:25] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$KeyIterator.next(HashMap.java:1493)
+[08:24:25] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:406)
+[08:24:25] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[08:24:25] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[08:24:25] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[08:24:25] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[08:24:25] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[08:24:25] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[08:24:25] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:168)
+[08:24:25] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$5(CommandTBRecovery.java:158)
+[08:24:25] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.func_75736_b(SourceFile:37)
+[08:24:25] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.run(SourceFile:30)
+[08:24:25] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.Thread.run(Thread.java:750)
+[08:24:25] [Server thread/INFO] [tombstone]: TenMouse could not be saved
+[08:24:26] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[08:24:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was shot by Bandit
+[08:24:52] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:-132, y:54, z:705] in the dimension 0
+[08:24:52] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[08:24:53] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[08:25:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Skeleton Soldier
+[08:25:04] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:-190, y:63, z:695] in the dimension 0
+[08:25:04] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[08:25:05] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[08:27:19] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
+[08:27:21] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[08:27:21] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
+[08:27:24] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
+[08:27:26] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
+[08:27:26] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[08:27:59] [Netty Epoll Server IO #4/ERROR] [mca]: Career ID wasn't assigned for UUID: 2ca06ef7-0d3c-4f06-948a-48190078cdfb
+[08:30:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
