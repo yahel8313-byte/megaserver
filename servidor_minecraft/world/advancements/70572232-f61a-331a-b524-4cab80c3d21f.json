@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 06:54:38 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2025-09-15 06:35:48 +0000"
@@ -59,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 06:54:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2025-09-15 06:37:14 +0000"
@@ -86,6 +98,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-09-15 06:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 06:54:38 +0000"
     },
     "done": true
   },
@@ -125,6 +143,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/combat/gold_gloves": {
+    "criteria": {
+      "has_gold": "2025-09-15 06:54:38 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-15 06:37:14 +0000"
@@ -161,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 06:54:38 +0000"
+    },
+    "done": true
+  },
   "bewitchment:root": {
     "criteria": {
       "tick": "2025-09-15 06:35:48 +0000"
@@ -176,6 +206,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-09-15 06:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-09-15 06:59:44 +0000"
     },
     "done": true
   },
@@ -209,9 +245,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 06:54:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 06:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 06:54:38 +0000"
     },
     "done": true
   },
@@ -242,6 +290,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 06:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 06:54:38 +0000"
     },
     "done": true
   },
@@ -299,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-15 07:01:15 +0000"
+    },
+    "done": true
+  },
   "vampirism:hunter/betrayal": {
     "criteria": {
       "kill": "2025-09-15 06:37:54 +0000"
@@ -338,6 +398,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 06:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-09-15 06:54:38 +0000"
     },
     "done": true
   },
@@ -383,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 06:54:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 06:42:16 +0000"
@@ -392,6 +464,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-15 06:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2025-09-15 06:54:38 +0000"
     },
     "done": true
   },
@@ -425,9 +503,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-09-15 06:54:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 06:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 06:54:38 +0000"
     },
     "done": true
   },
@@ -443,9 +533,21 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-09-15 06:56:13 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/metal/metal_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-15 06:42:16 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/tools/gold_ring": {
+    "criteria": {
+      "has_gold": "2025-09-15 06:54:38 +0000"
     },
     "done": true
   },
@@ -520,6 +622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-09-15 06:54:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-09-15 06:48:21 +0000"
@@ -529,6 +637,18 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-09-15 06:37:31 +0000"
+    },
+    "done": true
+  },
+  "bhc:main/root": {
+    "criteria": {
+      "red_heart_in_inventory": "2025-09-15 07:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 06:54:38 +0000"
     },
     "done": true
   },
@@ -610,6 +730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-09-15 06:54:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-09-15 06:37:31 +0000"
@@ -637,6 +763,18 @@
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_planks": "2025-09-15 06:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-09-15 06:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 06:54:38 +0000"
     },
     "done": true
   },
@@ -673,6 +811,12 @@
   "fossil:fossil/root": {
     "criteria": {
       "tick": "2025-09-15 06:35:48 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/tools/gold_pendant": {
+    "criteria": {
+      "has_gold": "2025-09-15 06:54:38 +0000"
     },
     "done": true
   },
@@ -733,6 +877,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-15 06:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 06:54:38 +0000"
     },
     "done": true
   }
