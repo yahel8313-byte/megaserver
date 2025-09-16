@@ -235,6 +235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-16 06:09:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 06:42:16 +0000"
@@ -605,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2025-09-16 06:09:20 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/tools/gold_pendant": {
     "criteria": {
       "has_gold": "2025-09-15 06:54:38 +0000"
@@ -794,6 +806,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-15 06:42:58 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "flower": "2025-09-16 06:04:41 +0000"
     },
     "done": true
   },
