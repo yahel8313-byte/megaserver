@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-09-18 20:33:38 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-15 06:37:14 +0000"
@@ -245,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-09-18 20:33:38 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_beach_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-18 19:35:59 +0000"
@@ -266,6 +278,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-09-18 19:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-09-18 20:43:52 +0000"
     },
     "done": true
   },
@@ -340,6 +358,12 @@
   "mcwtrpdoors:recipes/print_tropical": {
     "criteria": {
       "has_planks": "2025-09-18 19:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-09-18 20:36:31 +0000"
     },
     "done": true
   },
@@ -529,6 +553,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-09-18 20:38:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-18 20:25:26 +0000"
@@ -553,9 +583,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2025-09-18 20:33:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-09-15 06:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-09-18 20:33:38 +0000"
     },
     "done": true
   },
@@ -580,6 +622,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_double_plant": "2025-09-18 19:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-09-18 20:33:38 +0000"
     },
     "done": true
   },
@@ -769,9 +817,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-09-18 20:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-09-18 20:33:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-09-15 06:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-18 20:33:38 +0000"
     },
     "done": true
   },
@@ -787,9 +853,16 @@
       "skeleton": "2025-09-15 07:30:20 +0000",
       "husk": "2025-09-15 07:27:15 +0000",
       "zombie": "2025-09-15 07:28:06 +0000",
+      "spider": "2025-09-18 20:39:07 +0000",
       "creeper": "2025-09-15 08:08:49 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-09-18 20:33:38 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
@@ -812,6 +885,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-18 20:25:26 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2025-09-18 20:33:38 +0000"
     },
     "done": true
   },
@@ -851,6 +930,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-09-18 20:33:38 +0000"
+    },
+    "done": true
+  },
   "buildcraftcore:root": {
     "criteria": {
       "has_stick": "2025-09-15 06:37:18 +0000"
@@ -860,6 +945,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-09-15 07:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-09-18 20:33:38 +0000"
     },
     "done": true
   },
@@ -905,6 +996,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-09-18 20:33:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stonebrick": "2025-09-15 08:17:31 +0000"
@@ -932,6 +1029,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-09-18 19:35:45 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-09-18 20:33:58 +0000"
     },
     "done": true
   },
@@ -971,6 +1074,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-09-18 20:33:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-09-18 19:35:45 +0000"
@@ -992,6 +1101,12 @@
   "tombstone:tutorial/find_grave_dust": {
     "criteria": {
       "has_grave_dust": "2025-09-15 07:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-09-18 20:36:31 +0000"
     },
     "done": true
   },
@@ -1046,6 +1161,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-18 19:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-09-18 20:41:24 +0000"
     },
     "done": true
   },
@@ -1163,9 +1284,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-18 20:33:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-09-15 06:54:38 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:mined_amethyst": {
+    "criteria": {
+      "hat": "2025-09-18 20:33:58 +0000"
     },
     "done": true
   },
@@ -1256,6 +1389,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-09-15 06:54:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-09-18 20:33:38 +0000"
     },
     "done": true
   },
@@ -1461,9 +1600,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-09-18 20:39:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-09-15 07:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2025-09-18 20:45:50 +0000"
     },
     "done": true
   },
@@ -1608,6 +1759,12 @@
   "fossil:fossil/root": {
     "criteria": {
       "tick": "2025-09-15 06:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-09-18 20:33:38 +0000"
     },
     "done": true
   },

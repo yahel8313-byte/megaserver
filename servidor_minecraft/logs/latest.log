@@ -2197,3 +2197,132 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [20:28:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [A Curious Crystal...]
 [20:28:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
 [20:28:51] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:31:57] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:red_mechanic`. A random skin will be generated.
+[20:32:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was slain by Cedric (entity.Villager.red_mechanic)
+[20:32:19] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:36, y:69, z:1009] in the dimension 0
+[20:32:19] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[20:32:21] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[20:33:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Where Is The Stone Pen?]
+[20:33:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:33:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:33:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Diamonds!]
+[20:33:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:33:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:33:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:33:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:33:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:33:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:33:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:33:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:33:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:33:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:33:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:33:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:33:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:33:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Not Intoxicated]
+[20:33:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:33:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:33:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:33:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Ancient knowledge]
+[20:33:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:35:05] [Server thread/INFO] [mca]: Villager death: Paysley. Caused by: Rapariga. UUID: ca5126a2-6c45-4abb-9b34-540d6135e051
+[20:35:37] [Server thread/INFO] [mca]: Villager death: Cedric. Caused by: Rapariga. UUID: c299ddfa-de0c-44b1-8b39-14412519ab77
+[20:36:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved wrongly!
+[20:36:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved wrongly!
+[20:36:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:36:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:37:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Zombie Farmer
+[20:37:01] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:528, y:63, z:748] in the dimension 0
+[20:37:01] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: java.util.ConcurrentModificationException
+[20:37:01] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469)
+[20:37:01] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$KeyIterator.next(HashMap.java:1493)
+[20:37:01] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:406)
+[20:37:01] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[20:37:01] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[20:37:01] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[20:37:01] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[20:37:01] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[20:37:01] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[20:37:01] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:168)
+[20:37:01] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$5(CommandTBRecovery.java:158)
+[20:37:01] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.func_75736_b(SourceFile:37)
+[20:37:01] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.run(SourceFile:30)
+[20:37:01] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.Thread.run(Thread.java:750)
+[20:37:01] [Server thread/INFO] [tombstone]: TenMouse could not be saved
+[20:37:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[20:37:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[20:37:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[20:37:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[20:37:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[20:37:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved wrongly!
+[20:37:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has reached the goal [Bone Crusher]
+[20:37:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[20:37:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse got revenge on Zombie Farmer
+[20:37:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Zombie Miner
+[20:37:39] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:521, y:63, z:756] in the dimension 0
+[20:37:39] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[20:37:41] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[20:37:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse got revenge on Zombie Miner
+[20:38:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has reached the goal [Bone Crusher]
+[20:38:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:39:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:39:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Zombie Soldier
+[20:39:34] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:541, y:65, z:759] in the dimension 0
+[20:39:34] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[20:39:35] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[20:39:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse got revenge on Zombie Soldier
+[20:39:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Zombie Soldier
+[20:39:56] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:528, y:63, z:753] in the dimension 0
+[20:39:56] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: java.util.ConcurrentModificationException
+[20:39:56] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469)
+[20:39:56] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$KeyIterator.next(HashMap.java:1493)
+[20:39:56] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:406)
+[20:39:56] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[20:39:56] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[20:39:56] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[20:39:56] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[20:39:56] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[20:39:56] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[20:39:56] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:168)
+[20:39:56] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$5(CommandTBRecovery.java:158)
+[20:39:56] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.func_75736_b(SourceFile:37)
+[20:39:56] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.run(SourceFile:30)
+[20:39:56] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.Thread.run(Thread.java:750)
+[20:39:56] [Server thread/INFO] [tombstone]: TenMouse could not be saved
+[20:39:58] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[20:40:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse got revenge on Zombie Soldier
+[20:41:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:41:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[20:41:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was slain by Zombie Miner
+[20:41:42] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:619, y:63, z:881] in the dimension 0
+[20:41:42] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[20:41:42] [Server thread/INFO] [mca]: Villager death: Coleman. Caused by: Zombie. UUID: 2d0dd213-4015-4c12-bbb7-b2209ccaedec
+[20:41:46] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[20:42:05] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[20:42:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [A Strange Grave's Dust]
+[20:42:05] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[20:42:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Skeleton
+[20:42:40] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:566, y:67, z:757] in the dimension 0
+[20:42:40] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: java.util.ConcurrentModificationException
+[20:42:40] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469)
+[20:42:40] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$KeyIterator.next(HashMap.java:1493)
+[20:42:40] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:406)
+[20:42:40] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[20:42:40] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[20:42:40] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[20:42:40] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[20:42:40] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[20:42:40] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[20:42:40] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:168)
+[20:42:40] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$5(CommandTBRecovery.java:158)
+[20:42:40] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.func_75736_b(SourceFile:37)
+[20:42:40] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.run(SourceFile:30)
+[20:42:40] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.Thread.run(Thread.java:750)
+[20:42:40] [Server thread/INFO] [tombstone]: TenMouse could not be saved
+[20:42:41] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[20:42:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse got revenge on Skeleton
+[20:43:20] [Server thread/WARN] [vampirism]: [VampirePlayer]Entity sent by client is not in reach 2851
+[20:43:52] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:45:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:49:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [The Parrots and the Bats]
+[20:49:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse

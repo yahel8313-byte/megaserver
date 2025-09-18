@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bark/birch_bark_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-18 20:37:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 06:46:20 +0000"
@@ -440,9 +446,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_sheep": "2025-09-18 20:49:46 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 06:46:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-09-18 20:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2025-09-18 20:37:09 +0000"
     },
     "done": true
   },
@@ -658,6 +682,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2025-09-18 20:38:34 +0000",
       "husk": "2025-09-15 07:32:54 +0000",
       "zombie": "2025-09-18 19:37:49 +0000",
       "spider": "2025-09-15 07:33:42 +0000",
@@ -812,6 +837,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-09-16 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/find_grave_dust": {
+    "criteria": {
+      "has_grave_dust": "2025-09-18 20:42:05 +0000"
     },
     "done": true
   },
@@ -989,6 +1020,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2025-09-18 20:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-09-18 20:41:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-15 07:31:21 +0000"
@@ -1121,6 +1164,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-09-18 20:42:05 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:discover_spell": {
     "criteria": {
       "criteria_0": "2025-09-15 08:12:12 +0000"
@@ -1170,6 +1219,12 @@
   "ebwizardry:defeat_remnant": {
     "criteria": {
       "necromancy": "2025-09-18 20:07:34 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_paper": {
+    "criteria": {
+      "has_planks": "2025-09-18 20:37:09 +0000"
     },
     "done": true
   },
@@ -1266,6 +1321,12 @@
   "tombstone:tutorial/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-09-15 06:46:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_sheep": "2025-09-18 20:49:46 +0000"
     },
     "done": true
   },
