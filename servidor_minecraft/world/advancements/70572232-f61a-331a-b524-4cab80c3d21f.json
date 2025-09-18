@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "fossil:fossil/stone_tablet": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-18 23:26:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-09-15 06:37:18 +0000"
@@ -576,6 +582,12 @@
     },
     "done": true
   },
+  "fossil:fossil/figurine": {
+    "criteria": {
+      "broken_sword": "2025-09-18 23:25:59 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/tools/iron_ring": {
     "criteria": {
       "has_iron": "2025-09-15 06:42:16 +0000"
@@ -807,6 +819,12 @@
   "bewitchment:mined_amethyst": {
     "criteria": {
       "hat": "2025-09-18 20:33:58 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:defeat_evil_wizard": {
+    "criteria": {
+      "criteria_0": "2025-09-18 23:33:07 +0000"
     },
     "done": true
   },
@@ -1563,6 +1581,12 @@
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_planks": "2025-09-15 06:37:02 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "action": "2025-09-18 23:30:25 +0000"
     },
     "done": true
   },

@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "fossil:fossil/stone_tablet": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-18 23:31:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-09-15 06:59:38 +0000"
@@ -892,6 +898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-18 23:16:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2025-09-15 07:28:30 +0000"
@@ -1524,6 +1536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-18 23:16:27 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/torches": {
     "criteria": {
       "has_wood": "2025-09-15 06:18:16 +0000"
@@ -1831,6 +1849,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-09-18 22:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-18 23:16:27 +0000"
     },
     "done": true
   },
