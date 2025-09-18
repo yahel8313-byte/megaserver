@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2025-09-18 20:58:25 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2025-09-15 06:18:16 +0000"
@@ -696,6 +702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-09-18 21:02:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2025-09-15 07:28:30 +0000"
@@ -708,9 +720,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-09-18 21:02:55 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2025-09-15 08:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2025-09-18 21:03:09 +0000"
     },
     "done": true
   },
@@ -879,6 +903,12 @@
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-15 06:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-09-18 21:05:51 +0000"
     },
     "done": true
   },
@@ -1231,6 +1261,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2025-09-15 07:37:08 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2025-09-18 21:09:30 +0000"
     },
     "done": true
   },
