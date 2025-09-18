@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-09-18 20:08:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-09-15 08:21:02 +0000",
@@ -391,6 +397,12 @@
     },
     "done": true
   },
+  "bewitchment:mined_opal": {
+    "criteria": {
+      "hat": "2025-09-18 20:08:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-15 06:42:58 +0000"
@@ -454,6 +466,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-09-18 19:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-09-18 20:08:16 +0000"
     },
     "done": true
   },
