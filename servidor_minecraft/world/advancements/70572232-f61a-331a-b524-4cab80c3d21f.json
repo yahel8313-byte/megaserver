@@ -559,6 +559,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_cow": "2025-09-18 21:16:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 06:42:16 +0000"
@@ -865,6 +871,7 @@
       "skeleton": "2025-09-15 07:30:20 +0000",
       "husk": "2025-09-15 07:27:15 +0000",
       "zombie": "2025-09-15 07:28:06 +0000",
+      "silverfish": "2025-09-18 21:16:23 +0000",
       "spider": "2025-09-18 20:39:07 +0000",
       "creeper": "2025-09-15 08:08:49 +0000"
     },
@@ -1717,6 +1724,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2025-09-18 19:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_cow": "2025-09-18 21:16:51 +0000"
     },
     "done": true
   },
