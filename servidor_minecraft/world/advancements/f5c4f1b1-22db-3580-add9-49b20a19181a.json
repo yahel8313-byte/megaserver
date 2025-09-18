@@ -597,6 +597,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-09-18 22:52:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-09-15 07:38:03 +0000"
@@ -1103,6 +1109,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-09-18 22:52:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-15 06:59:24 +0000"
@@ -1214,6 +1226,12 @@
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
       "has_rail": "2025-09-18 22:13:48 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-09-18 22:52:05 +0000"
     },
     "done": true
   },
