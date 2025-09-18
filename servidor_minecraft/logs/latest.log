@@ -2155,3 +2155,31 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [19:07:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was slain by Vampire Hunter
 [19:07:02] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:-47, y:65, z:66] in the dimension 0
 [19:07:02] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[19:10:11] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[19:10:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Vampire Hunter
+[19:10:43] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:-51, y:68, z:69] in the dimension 0
+[19:10:43] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[19:10:44] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[19:10:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse got revenge on Vampire Hunter
+[19:11:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse got revenge on Vampire Hunter
+[19:12:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:bat that already exists with UUID 83e991c3-4224-4859-933c-0d4bf3bd7606
+[19:12:39] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: java.util.ConcurrentModificationException
+[19:12:39] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469)
+[19:12:39] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$KeyIterator.next(HashMap.java:1493)
+[19:12:39] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:406)
+[19:12:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Zombie Miner
+[19:12:39] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[19:12:39] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[19:12:39] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[19:12:39] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[19:12:39] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[19:12:39] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[19:12:39] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:168)
+[19:12:39] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$5(CommandTBRecovery.java:158)
+[19:12:39] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.func_75736_b(SourceFile:37)
+[19:12:39] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.run(SourceFile:30)
+[19:12:39] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.Thread.run(Thread.java:750)
+[19:12:39] [Server thread/INFO] [tombstone]: TenMouse could not be saved
+[19:12:40] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[19:18:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Vampire Hunter
+[19:18:37] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
