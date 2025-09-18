@@ -682,6 +682,12 @@
     },
     "done": true
   },
+  "ebwizardry:wizard_tower": {
+    "criteria": {
+      "criteria_0": "2025-09-18 19:01:55 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/tools/gold_pendant": {
     "criteria": {
       "has_gold": "2025-09-15 06:49:14 +0000"
