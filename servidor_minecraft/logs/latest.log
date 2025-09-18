@@ -3378,3 +3378,40 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [22:33:48] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
 [22:33:53] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
 [22:33:53] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for TenMouse
+[22:33:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse got revenge on Cyberdemon
+[22:33:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:33:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Into Fire]
+[22:33:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:33:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:33:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was burned to death by Cyberdemon
+[22:33:59] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[22:34:01] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[22:34:14] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[22:34:14] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Rapariga
+[22:34:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Zombie Pigman Soldier
+[22:34:15] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:69, y:45, z:100] in the dimension -1
+[22:34:15] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[22:34:16] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[22:34:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rapariga moved too quickly! -465.91133068811064,-21.0,-628.9650390510286
+[22:34:21] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[22:34:21] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for TenMouse
+[22:34:31] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[22:34:31] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Rapariga
+[22:34:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rapariga moved too quickly! 466.29004598573283,21.0,629.4584921560025
+[22:34:32] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[22:34:32] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for TenMouse
+[22:34:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:35:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[22:35:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[22:35:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[22:35:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[22:37:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Bat mode]
+[22:37:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:39:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse did not like the sun
+[22:39:16] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:513, y:63, z:775] in the dimension 0
+[22:39:17] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[22:39:18] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[22:39:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse did not like the sun
+[22:39:52] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:522, y:63, z:762] in the dimension 0
+[22:39:52] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[22:39:54] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
