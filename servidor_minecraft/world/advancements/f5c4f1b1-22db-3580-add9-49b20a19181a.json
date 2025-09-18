@@ -47,6 +47,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-09-18 22:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-09-18 22:15:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-09-15 06:59:24 +0000"
@@ -92,6 +104,18 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 06:46:20 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-18 22:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-09-18 22:31:10 +0000"
     },
     "done": true
   },
@@ -251,6 +275,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-09-18 22:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-09-18 22:16:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-09-18 21:24:09 +0000"
@@ -260,6 +296,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-09-16 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-09-18 22:13:48 +0000"
     },
     "done": true
   },
@@ -488,6 +530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-09-18 22:32:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-15 07:31:21 +0000"
@@ -552,6 +600,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-09-15 08:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-09-18 22:32:13 +0000"
     },
     "done": true
   },
@@ -645,6 +699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2025-09-18 22:16:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-09-15 06:19:26 +0000"
@@ -672,6 +732,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-15 07:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-09-18 22:16:42 +0000"
     },
     "done": true
   },
@@ -759,6 +825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-09-18 22:13:48 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/tools/iron_pendant": {
     "criteria": {
       "has_iron": "2025-09-15 06:46:20 +0000"
@@ -767,6 +839,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2025-09-18 22:22:55 +0000",
       "skeleton": "2025-09-18 20:38:34 +0000",
       "husk": "2025-09-15 07:32:54 +0000",
       "zombie": "2025-09-18 19:37:49 +0000",
@@ -785,6 +858,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-09-18 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-09-18 22:31:10 +0000"
     },
     "done": true
   },
@@ -878,9 +957,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2025-09-18 22:16:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-09-15 06:49:14 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-09-18 22:15:02 +0000"
     },
     "done": true
   },
@@ -934,7 +1025,8 @@
   },
   "ebwizardry:all_spells": {
     "criteria": {
-      "ward": "2025-09-15 08:12:12 +0000"
+      "ward": "2025-09-15 08:12:12 +0000",
+      "evade": "2025-09-18 22:23:45 +0000"
     },
     "done": false
   },
@@ -947,6 +1039,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-09-16 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:crystal": {
+    "criteria": {
+      "criteria_0": "2025-09-18 22:21:21 +0000"
     },
     "done": true
   },
@@ -1094,9 +1192,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2025-09-18 22:13:48 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/first_blood": {
     "criteria": {
       "flower": "2025-09-15 08:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-18 22:15:02 +0000"
     },
     "done": true
   },
@@ -1166,6 +1276,12 @@
     },
     "done": true
   },
+  "ebwizardry:root": {
+    "criteria": {
+      "criteria_0": "2025-09-18 22:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-09-18 20:41:34 +0000"
@@ -1223,6 +1339,18 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2025-09-15 07:28:30 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/blaze": {
+    "criteria": {
+      "crafting_table": "2025-09-18 22:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-09-18 22:16:42 +0000"
     },
     "done": true
   },
@@ -1313,6 +1441,18 @@
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-09-18 20:42:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-09-18 22:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-09-18 22:32:13 +0000"
     },
     "done": true
   },
@@ -1476,6 +1616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-09-18 22:32:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-09-16 06:12:39 +0000"
@@ -1545,6 +1691,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-09-18 22:06:41 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:mined_silver": {
+    "criteria": {
+      "hat": "2025-09-18 22:21:14 +0000"
     },
     "done": true
   },
@@ -1635,6 +1787,12 @@
   "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-15 06:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2025-09-18 22:16:29 +0000"
     },
     "done": true
   },

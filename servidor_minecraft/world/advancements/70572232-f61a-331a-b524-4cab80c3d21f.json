@@ -65,6 +65,18 @@
     },
     "done": true
   },
+  "bewitchment:mined_garnet": {
+    "criteria": {
+      "hat": "2025-09-18 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-09-18 22:33:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-09-18 22:06:55 +0000"
@@ -128,6 +140,12 @@
   "aether_legacy:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-09-18 22:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-09-18 22:31:05 +0000"
     },
     "done": true
   },
@@ -329,9 +347,27 @@
     },
     "done": true
   },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "torch": "2025-09-18 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-09-18 22:33:14 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_beach_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-18 19:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-09-18 22:28:23 +0000"
     },
     "done": true
   },
@@ -637,6 +673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-09-18 22:33:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-15 06:42:58 +0000"
@@ -718,6 +760,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-09-15 06:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-09-18 22:33:14 +0000"
     },
     "done": true
   },
@@ -877,6 +925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-09-18 22:28:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2025-09-15 07:05:00 +0000"
@@ -1030,6 +1084,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-09-18 20:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-09-18 22:31:05 +0000"
     },
     "done": true
   },
@@ -1693,6 +1753,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-09-18 22:28:23 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-15 06:43:05 +0000"
@@ -1744,6 +1810,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log2": "2025-09-18 19:35:57 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "lantern": "2025-09-18 22:18:51 +0000"
     },
     "done": true
   },
@@ -1804,6 +1876,12 @@
   "mcwtrpdoors:recipes/acacia/acacia_cottage_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-18 19:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-09-18 22:33:14 +0000"
     },
     "done": true
   },
@@ -1973,6 +2051,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "paper": "2025-09-18 22:18:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-18 21:22:01 +0000"
@@ -1988,6 +2072,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-09-15 06:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-09-18 22:33:14 +0000"
     },
     "done": true
   },
