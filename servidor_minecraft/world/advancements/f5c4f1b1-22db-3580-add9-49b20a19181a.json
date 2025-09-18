@@ -488,6 +488,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-09-18 19:36:47 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-09-15 06:46:25 +0000"
@@ -647,6 +653,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "husk": "2025-09-15 07:32:54 +0000",
+      "zombie": "2025-09-18 19:37:49 +0000",
       "spider": "2025-09-15 07:33:42 +0000",
       "enderman": "2025-09-15 07:03:20 +0000"
     },
