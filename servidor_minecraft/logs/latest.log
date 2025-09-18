@@ -2377,3 +2377,49 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [23:40:17] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
 [23:40:18] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
 [23:40:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse got revenge on Skeleton Soldier
+[23:42:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Hunter
+[23:42:11] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:538, y:65, z:743] in the dimension 0
+[23:42:11] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[23:42:13] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[23:42:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was blown up by Creeper
+[23:42:22] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:667, y:64, z:615] in the dimension 0
+[23:42:22] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: java.util.ConcurrentModificationException
+[23:42:22] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469)
+[23:42:22] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$KeyIterator.next(HashMap.java:1493)
+[23:42:22] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:406)
+[23:42:22] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[23:42:22] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[23:42:22] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[23:42:22] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[23:42:22] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[23:42:22] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[23:42:22] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:168)
+[23:42:22] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$5(CommandTBRecovery.java:158)
+[23:42:22] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.func_75736_b(SourceFile:37)
+[23:42:22] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.run(SourceFile:30)
+[23:42:22] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.Thread.run(Thread.java:750)
+[23:42:22] [Server thread/INFO] [tombstone]: Rapariga could not be saved
+[23:42:25] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[23:42:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse got revenge on Hunter
+[23:45:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was slain by Hunter
+[23:45:09] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:521, y:63, z:765] in the dimension 0
+[23:45:09] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[23:45:11] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[23:45:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse got revenge on Hunter
+[23:45:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Hunter
+[23:45:49] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:525, y:63, z:765] in the dimension 0
+[23:45:49] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[23:45:51] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[23:46:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse got revenge on Hunter
+[23:47:12] [Server thread/INFO] [Morph]: 1xitem.t1_scout_helmet@809
+[23:47:21] [Server thread/INFO] [Morph]: 1xitem.t1_scout_helmet@810
+[23:47:52] [Server thread/INFO] [Morph]: 1xitem.t1_scout_helmet@810
+[23:47:53] [Server thread/INFO] [Morph]: 1xitem.t1_scout_helmet@811
+[23:48:11] [Server thread/INFO] [Morph]: 1xitem.t1_scout_helmet@812
+[23:48:19] [Server thread/INFO] [Morph]: 1xitem.t1_scout_helmet@813
+[23:48:24] [Server thread/INFO] [Morph]: 1xitem.t1_scout_helmet@813
+[23:48:41] [Server thread/INFO] [Morph]: 1xitem.t1_scout_helmet@813
+[23:48:44] [Server thread/INFO] [Morph]: 1xitem.t1_scout_helmet@813
+[23:48:55] [Server thread/INFO] [Morph]: 1xitem.t1_scout_helmet@813
+[23:48:57] [Server thread/INFO] [Morph]: 1xitem.t1_scout_helmet@813
+[23:49:04] [Server thread/INFO] [Morph]: 1xitem.t1_scout_helmet@813
