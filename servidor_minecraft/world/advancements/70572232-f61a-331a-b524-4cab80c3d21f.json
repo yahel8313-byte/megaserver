@@ -341,15 +341,15 @@
     },
     "done": true
   },
-  "simpleplanes:recipes/plane": {
-    "criteria": {
-      "in_fire": "2025-09-18 21:08:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-18 20:25:26 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-09-18 21:08:18 +0000"
     },
     "done": true
   },
@@ -419,15 +419,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-09-18 21:22:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-09-18 20:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-09-18 21:22:01 +0000"
     },
     "done": true
   },
@@ -528,6 +528,7 @@
       "husk": "2025-09-15 07:27:15 +0000",
       "zombie": "2025-09-15 07:28:06 +0000",
       "silverfish": "2025-09-18 21:16:23 +0000",
+      "witch": "2025-09-18 23:04:53 +0000",
       "spider": "2025-09-18 20:39:07 +0000",
       "creeper": "2025-09-15 08:08:49 +0000"
     },
@@ -641,15 +642,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-09-18 21:22:01 +0000"
-    },
-    "done": true
-  },
   "ebwizardry:crystal": {
     "criteria": {
       "criteria_0": "2025-09-18 20:28:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-09-18 21:22:01 +0000"
     },
     "done": true
   },
@@ -887,6 +888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-09-18 22:55:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 06:42:16 +0000"
@@ -981,15 +988,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-09-18 21:45:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-18 20:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-09-18 21:45:58 +0000"
     },
     "done": true
   },
@@ -1038,6 +1045,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-18 21:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-09-18 22:55:31 +0000"
     },
     "done": true
   },
@@ -1281,15 +1294,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-09-18 21:22:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-09-18 20:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-09-18 21:22:01 +0000"
     },
     "done": true
   },
@@ -1961,6 +1974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-09-18 22:55:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-09-15 08:05:38 +0000"
@@ -2225,6 +2244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2025-09-18 22:55:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-09-15 06:54:38 +0000"
@@ -2309,15 +2334,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-09-18 21:22:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-18 20:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-09-18 21:22:01 +0000"
     },
     "done": true
   },
