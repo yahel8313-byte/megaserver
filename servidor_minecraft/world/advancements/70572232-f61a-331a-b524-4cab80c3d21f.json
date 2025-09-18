@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-09-18 22:06:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-09-15 06:37:14 +0000"
@@ -74,6 +80,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2025-09-15 08:33:35 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/iced_meat": {
+    "criteria": {
+      "broken_sword": "2025-09-18 22:09:22 +0000"
     },
     "done": true
   },
@@ -110,6 +122,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-18 21:22:01 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-18 22:06:55 +0000"
     },
     "done": true
   },
@@ -1201,6 +1219,18 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-09-18 22:06:55 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-09-18 21:53:10 +0000"
+    },
+    "done": true
+  },
   "fossil:fossil/analyzer": {
     "criteria": {
       "iron_pickaxe": "2025-09-15 07:41:31 +0000"
@@ -1381,6 +1411,12 @@
     },
     "done": true
   },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-09-18 22:06:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-18 19:35:59 +0000"
@@ -1504,6 +1540,12 @@
   "vampirism:vampire/first_blood": {
     "criteria": {
       "flower": "2025-09-16 06:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-18 22:06:55 +0000"
     },
     "done": true
   },
@@ -1853,6 +1895,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2025-09-18 21:57:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-09-18 20:39:08 +0000"
@@ -1958,6 +2006,18 @@
   "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-15 06:37:14 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-09-18 22:06:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-09-18 21:59:39 +0000"
     },
     "done": true
   },

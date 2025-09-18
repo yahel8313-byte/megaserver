@@ -3148,3 +3148,88 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [21:50:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
 [21:50:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
 [21:50:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[21:53:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has reached the goal [Heliomancer]
+[21:53:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[21:57:31] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[21:57:44] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[21:58:44] [Server thread/WARN] [FML]: Techguns loaded a new chunk [66, 0] in dimension 0 (overworld) while populating chunk [64, 0], causing cascading worldgen lag.
+[21:58:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:58:44] [Server thread/WARN] [FML]: Techguns loaded a new chunk [65, 0] in dimension 0 (overworld) while populating chunk [64, 0], causing cascading worldgen lag.
+[21:58:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:58:44] [Server thread/WARN] [FML]: Techguns loaded a new chunk [65, -1] in dimension 0 (overworld) while populating chunk [64, 0], causing cascading worldgen lag.
+[21:58:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:58:44] [Server thread/WARN] [FML]: Techguns loaded a new chunk [66, -1] in dimension 0 (overworld) while populating chunk [64, 0], causing cascading worldgen lag.
+[21:58:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:59:11] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:druid`. A random skin will be generated.
+[21:59:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[22:00:02] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
+[22:05:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[22:05:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[22:05:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[22:05:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[22:05:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[22:05:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[22:05:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[22:05:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[22:05:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[22:06:17] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[22:06:34] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[22:06:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:06:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:06:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:06:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:06:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:06:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:06:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:06:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:06:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:06:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:06:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:06:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Stone Age]
+[22:06:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:06:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:06:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:06:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:06:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:06:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:06:52] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[22:06:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[22:06:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[22:06:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[22:06:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[22:06:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[22:06:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [First Age]
+[22:06:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[22:07:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:07:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [First Age]
+[22:07:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:07:43] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:shady_merchant`. A random skin will be generated.
+[22:07:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was slain by Mimic
+[22:07:48] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:473, y:37, z:1225] in the dimension 0
+[22:07:48] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: java.util.ConcurrentModificationException
+[22:07:48] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469)
+[22:07:48] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$KeyIterator.next(HashMap.java:1493)
+[22:07:48] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:406)
+[22:07:48] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[22:07:48] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[22:07:48] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[22:07:48] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[22:07:48] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[22:07:48] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[22:07:48] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:168)
+[22:07:48] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$5(CommandTBRecovery.java:158)
+[22:07:48] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.func_75736_b(SourceFile:37)
+[22:07:48] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.run(SourceFile:30)
+[22:07:48] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.Thread.run(Thread.java:750)
+[22:07:49] [Server thread/INFO] [tombstone]: Rapariga could not be saved
+[22:07:51] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[22:07:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Play Of Color]
+[22:07:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:07:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:07:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:08:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rapariga moved wrongly!
+[22:09:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Digging Deep]
+[22:09:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:09:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [ZE ICE AGE!!!]
+[22:09:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[22:10:50] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
