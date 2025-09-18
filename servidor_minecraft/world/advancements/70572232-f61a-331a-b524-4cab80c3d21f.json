@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_the_recipe": "2025-09-18 19:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-09-15 06:54:38 +0000"
@@ -487,9 +493,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2025-09-18 19:42:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-09-18 19:35:45 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-09-18 19:44:47 +0000"
     },
     "done": true
   },
@@ -713,6 +731,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2025-09-18 19:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-09-18 19:35:45 +0000"
@@ -911,6 +935,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-09-18 19:44:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-15 06:37:14 +0000"
@@ -1010,6 +1040,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-15 06:42:58 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-09-18 19:44:47 +0000"
     },
     "done": true
   },
@@ -1271,6 +1307,7 @@
       "deep_ocean": "2025-09-15 06:38:16 +0000",
       "beaches": "2025-09-15 06:36:21 +0000",
       "desert_hills": "2025-09-15 07:24:02 +0000",
+      "forest_hills": "2025-09-18 19:47:31 +0000",
       "plains": "2025-09-15 06:43:38 +0000",
       "savanna": "2025-09-15 08:12:54 +0000",
       "savanna_rock": "2025-09-15 08:15:25 +0000",
@@ -1382,6 +1419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2025-09-18 19:42:23 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_planks": "2025-09-15 06:35:48 +0000"
@@ -1409,6 +1452,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-09-15 07:24:07 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/brick": {
+    "criteria": {
+      "has_planks": "2025-09-18 19:42:23 +0000"
     },
     "done": true
   },
