@@ -2423,3 +2423,34 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [23:48:55] [Server thread/INFO] [Morph]: 1xitem.t1_scout_helmet@813
 [23:48:57] [Server thread/INFO] [Morph]: 1xitem.t1_scout_helmet@813
 [23:49:04] [Server thread/INFO] [Morph]: 1xitem.t1_scout_helmet@813
+[23:53:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Zombie Soldier
+[23:53:06] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:606, y:64, z:761] in the dimension 0
+[23:53:06] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[23:53:08] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[23:53:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse got revenge on Zombie Soldier
+[23:53:54] [Server thread/INFO] [mca]: Villager death: Len. Caused by: Werewolf. UUID: 828dda54-024d-4e23-b9e0-c0ae0f7d855d
+[23:54:10] [Server thread/INFO] [mca]: Villager death: Bryson. Caused by: Werewolf. UUID: 0a6f17e5-5be9-4903-ab26-209229791ea4
+[23:54:24] [Server thread/INFO] [mca]: Villager death: Cher. Caused by: Werewolf. UUID: f0204a50-9ea4-4cec-9d6a-a8bb08336530
+[23:54:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Skeleton Soldier
+[23:54:49] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:602, y:73, z:637] in the dimension 0
+[23:54:49] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[23:54:50] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[23:55:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse got revenge on Skeleton Soldier
+[23:55:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Righteousness]
+[23:55:02] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[23:55:07] [Server thread/INFO] [mca]: Villager death: Eilene. Caused by: Silverfish. UUID: 64fbfca2-1292-4ede-9f28-d1739956bd22
+[23:56:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was pummeled by Mutant Enderman
+[23:56:12] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:532, y:64, z:721] in the dimension 0
+[23:56:12] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[23:56:13] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[23:57:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [advancements.buildcraftenergy.sticky_dipping.title]
+[23:57:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[23:57:28] [Server thread/INFO] [mca]: Villager death: Crissy. Caused by: Werewolf. UUID: 3420a037-488c-4119-bced-3bc19c7ae737
+[23:58:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was slain by Zombie Soldier
+[23:58:10] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:528, y:63, z:750] in the dimension 0
+[23:58:10] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[23:58:11] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[23:58:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse got revenge on Zombie Soldier
+[23:59:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TenMouse lost connection: Timed out
+[23:59:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse left the game
+[23:59:54] [Server thread/INFO] [mca]: Villager death: Basil. Caused by: Werewolf. UUID: 983d2c2d-0a9f-43ca-8710-1a31596f93b5
