@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-09-19 00:19:55 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/combat/leather_gloves": {
     "criteria": {
       "has_leather": "2025-09-15 07:30:03 +0000"
@@ -482,6 +488,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-09-18 22:35:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_scroll": {
+    "criteria": {
+      "has_ingredient": "2025-09-19 00:17:39 +0000"
     },
     "done": true
   },
@@ -795,6 +807,12 @@
   "botania:main/root": {
     "criteria": {
       "flower": "2025-09-18 19:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2025-09-19 00:19:55 +0000"
     },
     "done": true
   },
@@ -1764,6 +1782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-09-19 00:19:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-09-18 21:22:01 +0000"
@@ -2055,6 +2079,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-09-15 07:24:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/use_unstable_intangibility": {
+    "criteria": {
+      "coded_trigger": "2025-09-19 00:17:53 +0000"
     },
     "done": true
   },
