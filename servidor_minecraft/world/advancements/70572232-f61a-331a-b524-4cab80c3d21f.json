@@ -762,6 +762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-09-19 01:28:12 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/chain_death": {
     "criteria": {
       "coded_trigger": "2025-09-18 19:39:04 +0000"
@@ -1162,6 +1168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2025-09-19 01:26:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-09-18 21:22:01 +0000"
@@ -1207,6 +1219,12 @@
   "tombstone:tutorial/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-09-15 07:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2025-09-19 01:26:08 +0000"
     },
     "done": true
   },
@@ -2373,6 +2391,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-09-18 22:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-09-19 01:24:10 +0000"
     },
     "done": true
   },
