@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-19 00:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-18 21:22:01 +0000"
@@ -1216,6 +1222,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/granite": {
+    "criteria": {
+      "has_planks": "2025-09-19 00:37:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-09-15 07:24:07 +0000"
@@ -1464,6 +1476,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/mossy_cobblestone": {
+    "criteria": {
+      "has_planks": "2025-09-19 00:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 06:42:16 +0000"
@@ -1521,6 +1539,12 @@
   "projecte:philosophers_stone": {
     "criteria": {
       "philosophers_stone": "2025-09-19 00:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-19 00:36:58 +0000"
     },
     "done": true
   },
@@ -2355,6 +2379,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred_cow": "2025-09-18 21:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-09-19 00:37:00 +0000"
     },
     "done": true
   },
