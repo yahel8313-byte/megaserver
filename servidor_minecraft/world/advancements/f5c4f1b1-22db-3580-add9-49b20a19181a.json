@@ -410,6 +410,12 @@
     },
     "done": true
   },
+  "mutantbeasts:you_da_bomby": {
+    "criteria": {
+      "tamed_creeper_minion": "2025-09-19 00:59:13 +0000"
+    },
+    "done": true
+  },
   "vampirism:main/root": {
     "criteria": {
       "main": "2025-09-15 08:33:26 +0000"
@@ -660,6 +666,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-09-18 22:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-09-19 00:56:29 +0000"
     },
     "done": true
   },
@@ -1009,6 +1021,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-09-15 06:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-09-19 00:59:13 +0000"
     },
     "done": true
   },
