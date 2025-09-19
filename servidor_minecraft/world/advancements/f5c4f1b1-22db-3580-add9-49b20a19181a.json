@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "fossil:fossil/iced_meat": {
+    "criteria": {
+      "broken_sword": "2025-09-19 01:53:42 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2025-09-15 06:18:16 +0000"
