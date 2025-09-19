@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-09-19 01:15:58 +0000"
+    },
+    "done": true
+  },
   "fossil:fossil/stone_tablet": {
     "criteria": {
       "iron_pickaxe": "2025-09-18 23:26:05 +0000"
@@ -248,6 +254,12 @@
   "mcwtrpdoors:recipes/print_tropical": {
     "criteria": {
       "has_planks": "2025-09-18 19:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2025-09-19 01:15:58 +0000"
     },
     "done": true
   },
@@ -1084,6 +1096,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/ocelot": {
+    "criteria": {
+      "crafting_table": "2025-09-19 01:15:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-09-15 07:24:07 +0000"
@@ -1171,6 +1189,12 @@
   "fossil:fossil/break_fossil": {
     "criteria": {
       "relic_scrap": "2025-09-15 07:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2025-09-19 01:15:58 +0000"
     },
     "done": true
   },
