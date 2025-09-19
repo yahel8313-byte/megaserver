@@ -1510,6 +1510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-09-19 03:04:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-09-18 19:35:45 +0000"
@@ -1830,6 +1836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2025-09-19 03:04:53 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_four_panel_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-18 19:35:59 +0000"
@@ -1995,6 +2007,12 @@
   "mcwtrpdoors:recipes/bark/acacia_bark_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-18 19:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-09-19 03:03:48 +0000"
     },
     "done": true
   },
