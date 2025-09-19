@@ -2,5 +2,6 @@
 chococraft:chocobo=15
 fossil:fossil.nautilus=6
 fossil:fossil.coelacanth=15
+tombstone:spectral_wolf=3
 fossil:fossil.sturgeon=15
 bewitchment:snake=3
