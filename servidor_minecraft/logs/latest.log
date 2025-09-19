@@ -91,3 +91,13 @@
 [00:19:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
 [00:19:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
 [00:19:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[00:24:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved wrongly!
+[00:24:52] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[00:25:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [An alchemist's best friend!]
+[00:25:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[00:26:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse burned to ashes
+[00:26:33] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:562, y:19, z:773] in the dimension 0
+[00:26:33] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[00:26:34] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[00:28:57] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[00:29:06] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container

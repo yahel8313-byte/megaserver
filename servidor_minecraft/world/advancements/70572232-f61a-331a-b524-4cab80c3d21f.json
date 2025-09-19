@@ -1518,6 +1518,12 @@
     },
     "done": true
   },
+  "projecte:philosophers_stone": {
+    "criteria": {
+      "philosophers_stone": "2025-09-19 00:25:03 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/compat/tconstruct": {
     "criteria": {
       "book": "2025-09-15 06:35:48 +0000"
@@ -2007,6 +2013,12 @@
   "buildcraftenergy:sticky_dipping": {
     "criteria": {
       "oil": "2025-09-18 20:20:43 +0000"
+    },
+    "done": true
+  },
+  "projecte:root": {
+    "criteria": {
+      "philstone_recipe": "2025-09-19 00:24:52 +0000"
     },
     "done": true
   },
