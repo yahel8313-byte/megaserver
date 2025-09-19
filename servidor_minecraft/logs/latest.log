@@ -2197,3 +2197,33 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [02:18:14] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
 [02:18:14] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
 [02:28:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved wrongly!
+[02:38:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Skeleton Soldier
+[02:38:45] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:206, y:63, z:910] in the dimension 0
+[02:38:45] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[02:38:47] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[02:38:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[02:39:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Zombie Soldier
+[02:39:35] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:206, y:63, z:930] in the dimension 0
+[02:39:35] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[02:39:36] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[02:40:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[02:41:20] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:shady_merchant`. A random skin will be generated.
+[02:43:59] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
+[02:43:59] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
+[02:44:39] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[02:44:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[02:44:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[02:44:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[02:44:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[02:44:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[02:44:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[02:45:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was slain by Mimic
+[02:45:49] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:77, y:20, z:1225] in the dimension 0
+[02:45:49] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[02:45:51] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[02:46:27] [Server thread/WARN] [mca]: No skin found for profession: `bewitchment:alchemist`. A random skin will be generated.
+[02:46:42] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[02:47:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [That Backfired]
+[02:47:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[02:47:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has completed the challenge [Dicing With Danger]
+[02:47:30] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
